@@ -1,0 +1,5 @@
+{
+  "word_error_code": "E_BAD_WORD",
+  "min_length": 2,
+  "words": ["HTTP", "get", "API2", "JSON", "x", "URL", "Yes"]
+}
